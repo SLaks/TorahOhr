@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TorahOhr", "TorahOhr\TorahOhr.csproj", "{89B816E8-BD6C-428C-81C3-770506C7A994}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TorahOhr.Data", "TorahOhr.Data\TorahOhr.Data.csproj", "{79FFA8C2-D0A7-49D8-97C1-A946D87F2972}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,16 @@ Global
 		{89B816E8-BD6C-428C-81C3-770506C7A994}.Release|x86.ActiveCfg = Release|x86
 		{89B816E8-BD6C-428C-81C3-770506C7A994}.Release|x86.Build.0 = Release|x86
 		{89B816E8-BD6C-428C-81C3-770506C7A994}.Release|x86.Deploy.0 = Release|x86
+		{79FFA8C2-D0A7-49D8-97C1-A946D87F2972}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79FFA8C2-D0A7-49D8-97C1-A946D87F2972}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79FFA8C2-D0A7-49D8-97C1-A946D87F2972}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{79FFA8C2-D0A7-49D8-97C1-A946D87F2972}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{79FFA8C2-D0A7-49D8-97C1-A946D87F2972}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{79FFA8C2-D0A7-49D8-97C1-A946D87F2972}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79FFA8C2-D0A7-49D8-97C1-A946D87F2972}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79FFA8C2-D0A7-49D8-97C1-A946D87F2972}.Release|ARM.ActiveCfg = Release|Any CPU
+		{79FFA8C2-D0A7-49D8-97C1-A946D87F2972}.Release|x64.ActiveCfg = Release|Any CPU
+		{79FFA8C2-D0A7-49D8-97C1-A946D87F2972}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
